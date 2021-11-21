@@ -1,2 +1,0 @@
-(this["webpackJsonpdecomposition-react"]=this["webpackJsonpdecomposition-react"]||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var c=n(1),o=n.n(c),i=n(3),r=n.n(i),s=(n(8),n(0));var a=function(){return Object(s.jsx)("div",{})};r.a.render(Object(s.jsx)(o.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))},8:function(t,e,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.cc116ebe.chunk.js.map
